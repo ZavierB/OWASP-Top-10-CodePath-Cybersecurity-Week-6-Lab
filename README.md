@@ -18,4 +18,4 @@ Password Hashing 3
 Password Hashing 4
 
 # Video
-<img src='https://i.imgur.com/bEO3kZ0' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/bEO3kZ0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
